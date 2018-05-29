@@ -1,0 +1,60 @@
+Joffrey Baratheon
+190922
+Y
+PPOI
+Gregor Clegane
+47226
+Y
+PPOI
+Khal Drogo
+133594
+N
+PPOI
+Hodor
+162581
+Y
+PPOF
+Cersei Lannister
+163985
+N
+PPOI
+Tyrion Lannister
+109253
+N
+PPOF
+Jorah Mormont
+61078
+Y
+None
+Jon Snow
+123222
+N
+None
+Arya Stark
+95785
+Y
+PPOF
+Sansa Stark
+37652
+Y
+PPOF
+Eddard Stark
+90593
+Y
+PPOI
+Bran Stark
+99954
+Y
+PPOF
+Daenerys Targaryen
+99798
+N
+PPOF
+Margaery Tyrell
+89986
+N
+None
+Lord Varys
+123144
+N
+PPOF

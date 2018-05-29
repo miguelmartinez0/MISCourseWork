@@ -1,0 +1,7 @@
+132,Colored Pencils,8,19.99
+529,Sketch Pad,4,12.89
+533,Easel,6,37.97
+827,Canvas Panels,3,11.96
+194,Paint Set,2,27.99
+285,Paintbrush Set,7,8.59
+736,Markers Set,5,136.94
